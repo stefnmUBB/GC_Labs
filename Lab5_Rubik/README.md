@@ -1,6 +1,7 @@
 # GC - Lab5 (Proiect)
 
 Realizati un cub Rubik. 
+
 Barem:
 - din oficiu - 1p
 - modelarea unui obiect care arata ca un cub rubik - 1p
